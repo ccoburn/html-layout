@@ -1,0 +1,35 @@
+.wrap {
+display: flex;
+}
+
+
+.left {
+	background-color: lightblue;
+	width: 100%;
+	height: 100vh;
+
+}
+
+.middle {
+background-color: cyan;
+width: 100%;
+	height: 100vh;
+}
+.right {
+	background-color: lightgreen;
+	width: 100%;
+	height: 100vh;
+	padding-top: 640px;
+}
+.box {
+	width: 100%;
+	height: 100px;
+	background-color: red;
+	
+}
+
+.words {
+	color: white;
+	text-align: center;
+	padding-top: 40px;
+}
